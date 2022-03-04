@@ -1,4 +1,7 @@
-
+body{
+  background-image: url('wallpapers/wallpaper2.jpg');
+  background-repeat: repeat;
+}
 ul {
     list-style-type: none;
     margin: 0;
