@@ -1,7 +1,17 @@
-body{
-  background-image: url('wallpapers/wallpaper2.jpg');
-  background-repeat: repeat;
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-block;
 }
+
+ .success {color: green;}
+ .info {color: dodgerblue;}
+ .warning {color: orange;}
+ .danger {color: red;}
+ .default {color: black;}
 ul {
     list-style-type: none;
     margin: 0;
